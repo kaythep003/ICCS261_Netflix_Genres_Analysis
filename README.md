@@ -1,8 +1,6 @@
 # ICCS261_Netflix_Genres_Analysis
 Final project for data science course taken in 2024
 
-# Netflix Popularity Analysis
-
 ## Overview
 
 Statistical analysis of Netflix content popularity using IMDb vote counts. The project investigates whether show type (Movie vs. TV Series) and genre influence audience engagement.
